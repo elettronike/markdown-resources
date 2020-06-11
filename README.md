@@ -1,6 +1,6 @@
-# markdown-manual
+# Markdown Resources
 syntax and resources to use markdown
 
-[MarkDownManual](MarkDownManual.md)
+[Markdown Manual](MarkDownManual.md)
 
 [ASCII in Markdown](ASCII.md)
