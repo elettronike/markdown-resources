@@ -501,6 +501,16 @@ To add a link to an image, enclose the Markdown for the image in brackets, and t
 
 The rendered output looks like this:
 
+
+
+### Image resize in Github
+
+- `![](1200px-Markdown-mark.svg.png | width=100)`	    
+- `![](1200px-Markdown-mark.svg.png =250x250)`
+- `<img src="1200px-Markdown-mark.svg.png" width="50%"  />`
+
+
+
 # Code 
 
 Code blocks are normally indented four spaces or one tab. 
