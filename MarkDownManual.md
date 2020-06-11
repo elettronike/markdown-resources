@@ -4,8 +4,6 @@
 
 MarkDownManual
 ==============
-
-------------------------------------------------
 Author: Fabio De Angelis   
 rev: A   
 date: 12-4-2020   
