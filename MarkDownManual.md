@@ -1,4 +1,4 @@
-<link 	href='file:///home/iperkeno/Templates/Antimony.css?version=1'
+<link 	href='elettronike_markdown.css?version=1'
 	rel='stylesheet' type="text/css" >
 </link>
 
