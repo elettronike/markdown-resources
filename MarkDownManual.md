@@ -8,11 +8,9 @@ Markdown Manual rev: A
 Author: Fabio De Angelis    
 Date: 12-4-2020   
 
-<img src="1200px-Markdown-mark.svg.png" width="50%" />
+[<img src="1200px-Markdown-mark.svg.png" width="50%" />][wiki]
 
 ------------------------
-
-
 
 [Unordered Lists](#unordered-lists)   
 [Text Formatting (Span Eelements)](#span-elements)    
@@ -1066,3 +1064,4 @@ The rendered output looks like this:
 
 
 
+[wiki]: https://en.wikipedia.org/wiki/Markdown
