@@ -1,4 +1,4 @@
-<link 	href='../elettronike_markdown.css?version=1'
+<link 	href='elettronike_markdown.css?version=1'
 	rel='stylesheet' 
 	type="text/css" >
 </link>
@@ -6,7 +6,10 @@
 Markdown Manual rev: A 
 ========================
 Author: Fabio De Angelis    
-date: 12-4-2020   
+Date: 12-4-2020   
+
+![Markdown Logo](1200px-Markdown-mark.svg.png "Markdown Logo"){width=30%}
+
 ------------------------
 
 
