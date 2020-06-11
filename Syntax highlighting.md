@@ -145,22 +145,4 @@ Here's a full list of supported languages:
     xslt ('*.xsl', '*.xslt')
     yaml ('*.yaml', '*.yml')
 
-Select a topic:
-
-Choose from one of the topics below to browse other articles
-
-    Getting Started
-    User Management
-    Projects
-    Tickets
-    Repositories
-    Discussions
-    Notification Centre
-    Notebook
-    File Uploads
-    Time Tracking
-    Tips & Tricks
-    Agile Methodology
-    Notification Services
-    Account and Billing
 
