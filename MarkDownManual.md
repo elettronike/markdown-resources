@@ -1,5 +1,6 @@
-<link 	href='elettronike_markdown.css?version=1'
-	rel='stylesheet' type="text/css" >
+<link 	href='../elettronike_markdown.css?version=1'
+	rel='stylesheet' 
+	type="text/css" >
 </link>
 
 Markdown Manual rev: A 
