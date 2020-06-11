@@ -8,8 +8,9 @@ Markdown Manual rev: A
 Author: Fabio De Angelis    
 Date: 12-4-2020   
 
-![Markdown Logo](1200px-Markdown-mark.svg.png "Markdown Logo" | width=30%)
+![Markdown Logo](1200px-Markdown-mark.svg.png "Markdown Logo" =100x100)
 
+<img src="1200px-Markdown-mark.svg.png" width="50%"  />
 ------------------------
 
 
