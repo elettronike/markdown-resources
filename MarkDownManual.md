@@ -2,12 +2,11 @@
 	rel='stylesheet' type="text/css" >
 </link>
 
-MarkDownManual
-==============
-Author: Fabio De Angelis   
-rev: A   
+Markdown Manual rev: A 
+========================
+Author: Fabio De Angelis    
 date: 12-4-2020   
-------------------------------------------------
+------------------------
 
 
 
