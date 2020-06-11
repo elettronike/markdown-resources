@@ -14,13 +14,11 @@ date: 12-4-2020
 ------------------------------------------------
 
 
-[Why Use Markdown?]		
-[Get Started]    
-[Cheat Sheet]   
-[Basic Syntax]    
-[Extended Syntax]    
-[Tools]      
 
+[Unordered Lists](#unordered-lists}
+[Text Formatting (Span Eelements)] (#span-elements)
+[Blockquotes] (#blockquotes)
+[Lists] (#lists)
 [Images](#images)
       
       
@@ -175,7 +173,7 @@ The rendered output of all three looks identical.
 
 ***NOTE*** For compatibility, put blank lines before and after horizontal rules.
 
-# Text Formatting (Span Eelements)
+# Text Formatting (Span Eelements) {#span-elements}
 
 ------------------------------------------------------------------------
 
@@ -246,7 +244,7 @@ The rendered output looks like this:
 
 ~~The world is flat.~~ We now know that the world is round.
 
-## Blockquotes
+## Blockquotes {#blockquotes}
 
 To create a blockquote, add a `>` in front of a paragraph.
 
@@ -308,7 +306,7 @@ The rendered output looks like this:
 >>>  *Everything* is **great**.
 
 
-# Lists
+# Lists {#lists}
 
 ------------------------------------------------------------------------
 
@@ -331,7 +329,7 @@ Markdown:
 ```
 
 HTML:
-```
+```html
 		<ol>
 		<li>First item</li>
 		<li>Second item</li>
@@ -355,7 +353,7 @@ Rendered Output
 > 6. Fourth item   
 
 
-## Unordered Lists
+## Unordered Lists {#lnordered-lists}
 
 To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
 
