@@ -5,12 +5,10 @@
 MarkDownManual
 ==============
 
-------------------------------------------------------------------------
-
 ------------------------------------------------
-Author: Fabio De Angelis
-rev: A
-date: 12-4-2020
+Author: Fabio De Angelis   
+rev: A   
+date: 12-4-2020   
 ------------------------------------------------
 
 
@@ -86,8 +84,6 @@ is a client-side app that lets you edit, preview and convert between documents w
 
 # Basic Syntax
 
-------------------------------------------------------------------------
-
 ## Overview
 
 Nearly all Markdown applications support the basic syntax outlined in John Gruber’s original design document. 
@@ -145,9 +141,6 @@ _Rendered Output_
 Other websites can link to the heading by adding the custom heading ID to the full URL of the webpage (e.g, [Heading IDs](https://www.markdownguide.org/extended-syntax#heading-ids)).
 
 
-
-
-
 ## Paragraphs
 
 - To create paragraphs, use a blank line to separate one or more lines of text.
@@ -174,8 +167,6 @@ The rendered output of all three looks identical.
 ***NOTE*** For compatibility, put blank lines before and after horizontal rules.
 
 # Text Formatting (Span Eelements) {#span-elements}
-
-------------------------------------------------------------------------
 
 ## Emphasis
 
@@ -307,8 +298,6 @@ The rendered output looks like this:
 
 
 # Lists {#lists}
-
-------------------------------------------------------------------------
 
 You can organize items into ordered and unordered lists.
 
@@ -483,8 +472,6 @@ In Markdown applications that support task lists, checkboxes will be displayed n
 
 # Images {#images}
 
-------------------------------------------------------------------------
-
 ```
 		![image]( file:image.png "image title"){ width=500 }
 ```
@@ -514,8 +501,6 @@ To add a link to an image, enclose the Markdown for the image in brackets, and t
 The rendered output looks like this:
 
 # Code 
-
-------------------------------------------------------------------------
 
 Code blocks are normally indented four spaces or one tab. 
 When they’re in a list, indent them eight spaces or two tabs.
@@ -648,8 +633,6 @@ The rendered output looks like this:
 
 
 ## Links {#Links}
-
-------------------------------------------------------------------------
 
 To create a link, enclose the link text in brackets (e.g., [Duck Duck Go](https://duckduckgo.com)) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
 
@@ -791,8 +774,6 @@ which will render in a browser as a clickable link to “address@example.com”.
 
 ## Tables
 
-------------------------------------------------------------------------
-
 To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column. You can optionally add pipes on either end of the table.
 ```
 	| Syntax      | Description |
@@ -869,8 +850,6 @@ You can use a backslash to escape the following characters.
 
 
 ## HTML
-
-------------------------------------------------------------------------
 
 Many Markdown applications allow you to use HTML tags in Markdown-formatted text. 
 This is helpful if you prefer certain HTML tags to Markdown syntax. 
@@ -970,8 +949,6 @@ However, inside Markdown code spans and blocks, angle brackets and ampersands ar
 
 # Extended Sintax
 
-------------------------------------------------------------------------
-
 The basic syntax outlined in John Gruber’s original design document added many of the elements needed on a day-to-day basis, but it wasn’t enough for some people. That’s where extended syntax comes in.
 
 Several individuals and organizations took it upon themselves to extend the basic syntax by adding additional elements like tables, code blocks, syntax highlighting, URL auto-linking, and footnotes. These elements can be enabled by using a lightweight markup language that builds upon the basic Markdown syntax, or by adding an extension to a compatible Markdown processor.
@@ -996,8 +973,6 @@ Many of the most popular Markdown applications use one of the following lightwei
 
 
 ## Footnotes
-
-------------------------------------------------------------------------
 
 Footnotes allow you to add notes and references without cluttering the body of the document. When you create a footnote, a superscript number with a link appears where you added the footnote reference. Readers can click the link to jump to the content of the footnote at the bottom of the page.
 
@@ -1035,8 +1010,6 @@ The rendered output looks like this:
 
 ## Emoji
 
-------------------------------------------------------------------------
-
 There are two ways to add emoji to Markdown files: copy and paste the emoji into your Markdown-formatted text, or type emoji shortcodes.
 Copying and Pasting Emoji
 
@@ -1060,8 +1033,6 @@ Note: You can use this list of emoji shortcodes, but keep in mind that emoji sho
 
 
 ## Automatic URL Linking
-
-------------------------------------------------------------------------
 
 Many Markdown processors automatically turn URLs into links. That means if you type http://www.example.com, your Markdown processor will automatically turn it into a link even though you haven’t used brackets.
 
