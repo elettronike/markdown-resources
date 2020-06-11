@@ -15,10 +15,10 @@ date: 12-4-2020
 
 
 
-[Unordered Lists](#unordered-lists}
-[Text Formatting (Span Eelements)] (#span-elements)
-[Blockquotes] (#blockquotes)
-[Lists] (#lists)
+[Unordered Lists](#unordered-lists)
+[Text Formatting (Span Eelements)](#span-elements)
+[Blockquotes](#blockquotes)
+[Lists](#lists)
 [Images](#images)
       
       
