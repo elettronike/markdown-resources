@@ -1,19 +1,11 @@
 MDwiki example websites
 -----------------------
 
-This is a list of examples websites that are created with [MDwiki]. The full source of all the websites is available at [GitHub][githubrepo].
 
-[preview:4](a/mdwiki-howto.md)
+[preview:4](MarkDownManual.md) [[Markdown source]][cafe]
+[preview:4](SyntaxHighlight.md) [[Markdown source]][cafe]
+[preview:4](ASCII.md) [[Markdown source]][cafe]
 
-[gimmick: math]()
-
-$$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
-
-* [howto](mdwiki-howto.md)
-
-* [Sample coffee place](cafe/) [[Markdown source]][cafe]
-* [Simple travel blog website](travel_blog/) [[Markdown source]][travelblog]
-* [Single-page fansite about Muscle Cars](muscle_cars/) [[Markdown source]][musclecards]
 
 [MDwiki]: http://www.mdwiki.info
 [githubrepo]: http://github.com/Dynalon/mdwiki-examples/
