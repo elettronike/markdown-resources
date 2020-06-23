@@ -4,9 +4,9 @@
 [gimmick:Theme (inverse: false)](flatly)
 [gimmick:ForkMeOnGitHub](http://github.com/Dynalon/mdwiki-examples/)
 
-[Markdown Manual](MarkDowmManual.md)
+[Markdown-Manual](MarkDowmManual.md)
 
-[Travel blog](SyntaxHighlight.md)
+[Syntax-Highlight](SyntaxHighlight.md)
 
-[Muscle Cars](ASCII.md)
+[ASCII](ASCII.md)
 
