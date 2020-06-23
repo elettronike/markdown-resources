@@ -3,7 +3,9 @@ MDwiki example websites
 
 
 [preview:4](MarkDownManual.md) [[Markdown source]][cafe]
+
 [preview:4](SyntaxHighlight.md) [[Markdown source]][cafe]
+
 [preview:4](ASCII.md) [[Markdown source]][cafe]
 
 
