@@ -1,12 +1,12 @@
-# Elettronike - Knowledge Base
+# Elettronike - Markdown Resources
 
 
 [gimmick:Theme (inverse: false)](flatly)
 [gimmick:ForkMeOnGitHub](http://github.com/Dynalon/mdwiki-examples/)
 
-[Coffee Place](cafe/)
+[Markdown Manual](MarkDowmManual.md)
 
-[Travel blog](travel_blog/)
+[Travel blog](SyntaxHighlight.md)
 
-[Muscle Cars](muscle_cars/)
+[Muscle Cars](ASCII.md)
 
