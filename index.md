@@ -1,6 +1,7 @@
 MDwiki example websites
 -----------------------
 
+contents of te wiki:
 
 [preview:4](MarkDownManual.md) [[Markdown source]][cafe]
 
