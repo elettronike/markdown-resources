@@ -1,5 +1,4 @@
-MDwiki example websites
------------------------
+# Markdown Resources
 
 contents of te wiki:
 
