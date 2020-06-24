@@ -1,10 +1,5 @@
-<link 	href="elettronike_markdown.css"
-	rel='stylesheet' 
-	type="text/css" >
-</link>
-
-# Markdown Manual rev: A 
-
+Markdown Manual rev: A 
+======================
 Author: Fabio De Angelis    
 Date: 12-4-2020   
 
