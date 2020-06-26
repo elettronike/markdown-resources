@@ -1,5 +1,6 @@
 # Markdown Resources
-syntax and resources to use markdown
+syntax and resources to use markdown.
+MD wiki is published at: https://elettronike.github.io/markdown-resources/
 
 [Markdown Manual](MarkDownManual.md)
 
